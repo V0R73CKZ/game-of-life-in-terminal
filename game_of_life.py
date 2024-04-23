@@ -1,8 +1,3 @@
-'''
-Hello and welcome to CTHS's game for the python competition
-the following code has been commented for ease of understanding
-each comment should explain what the code does concisely
-'''
 # import all of the python modules
 
 import time, math, os, sys, tty, termios
